@@ -3,16 +3,24 @@
  * @license Apache-2.0
  */
 
+import { ReactLenis } from 'lenis/react';
+
 /**
  * Components
  */
 import Header from './components/Header';
+import Hero from './components/Hero';
 
 const App = () => {
   return (
-    <div className=''>
-      <Header />
-    </div>
+    <ReactLenis root>
+      <div className='isolate overflow-hidden relative'>
+        <Header />
+        <main>
+          <Hero />
+        </main>
+      </div>
+    </ReactLenis>
   );
 };
 

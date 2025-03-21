@@ -72,8 +72,8 @@ const MobileMenu = ({ navMenu }: MobileMenuProps) => {
         >
           Sing in
         </Button>
-        <Button className='w-[48%]  bg-indigo-500 text-white hover:bg-indigo-400 cursor-pointer'>
-          Free Trail
+        <Button className='w-[48%]  bg-indigo-600 text-white hover:bg-indigo-500 cursor-pointer'>
+          Free Trial
         </Button>
       </div>
     </div>
