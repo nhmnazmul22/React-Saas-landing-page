@@ -8,6 +8,7 @@ import { ReactLenis } from 'lenis/react';
 /**
  * Components
  */
+import Brand from './components/Brand';
 import Header from './components/Header';
 import Hero from './components/Hero';
 
@@ -18,6 +19,7 @@ const App = () => {
         <Header />
         <main>
           <Hero />
+          <Brand />
         </main>
       </div>
     </ReactLenis>
