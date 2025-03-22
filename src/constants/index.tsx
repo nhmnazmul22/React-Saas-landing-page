@@ -50,44 +50,44 @@ import {
 // Header
 export const navMenu: MenuItem[] = [
   {
-    href: '/products',
-    label: 'Products',
+    href: '/services',
+    label: 'Services',
     submenu: [
       {
         href: '#',
         icon: <ChartArea />,
-        label: 'User Analytics',
-        desc: 'Powerful options to securely authenticate and manage',
+        label: 'Data Insights',
+        desc: 'Advanced tools to analyze and visualize your data effectively',
       },
       {
         href: '#',
         icon: <Building2 />,
-        label: 'B2B SaaS Suite',
-        desc: 'Add-on features built specifically for B2B applications',
+        label: 'Enterprise Solutions',
+        desc: 'Custom-built solutions tailored for enterprise-level applications',
       },
       {
         href: '#',
         icon: <Component />,
-        label: 'React Components',
-        desc: 'Embeddable prebuilt UI components for quick and seamless integrations',
+        label: 'UI Components',
+        desc: 'Ready-to-use UI components for seamless integration into your apps',
       },
       {
         href: '#',
         icon: <Code />,
-        label: 'Next.js Analytics',
-        desc: 'The fastest and most seamless authentication solution for Next.js',
+        label: 'Next.js Performance',
+        desc: 'Optimize your Next.js apps with cutting-edge analytics tools',
       },
       {
         href: '#',
         icon: <BetweenHorizonalEnd />,
-        label: 'AnalytiX Elements',
-        desc: 'Unstyled UI primitives for endless customization. Powered by AnalytiX',
+        label: 'Custom UI Elements',
+        desc: 'Highly flexible and customizable UI elements for developers',
       },
       {
         href: '#',
         icon: <BrainCircuit />,
-        label: 'Authentication for AI',
-        desc: 'Authentication and abuse protection tailored to AI applications',
+        label: 'AI Authentication',
+        desc: 'Secure and intelligent authentication solutions for AI-driven platforms',
       },
     ],
   },
@@ -96,48 +96,48 @@ export const navMenu: MenuItem[] = [
     label: 'Features',
   },
   {
-    href: '/docs',
-    label: 'Docs',
+    href: '/resources',
+    label: 'Resources',
     submenu: [
       {
         href: '#',
         icon: <Terminal />,
-        label: 'Getting Started',
-        desc: 'Powerful options to securely authenticate and manage',
+        label: 'Quick Start Guide',
+        desc: 'Step-by-step instructions to get started quickly',
       },
       {
         href: '#',
         icon: <Package />,
-        label: 'Core Concepts',
-        desc: 'Add-on features built specifically for B2B applications',
+        label: 'Key Concepts',
+        desc: 'Understanding the core concepts behind our platform',
       },
       {
         href: '#',
         icon: <SquareMousePointer />,
-        label: 'Customization',
-        desc: 'Embeddable prebuilt UI components for quick and seamless integrations',
+        label: 'Personalization',
+        desc: 'Easily customize your UI to match your brand identity',
       },
       {
         href: '#',
         icon: <Blocks />,
-        label: 'Official Plugins',
-        desc: 'The fastest and most seamless authentication solution for Next.js',
+        label: 'Official Add-ons',
+        desc: 'Enhance functionality with verified plugins and extensions',
       },
     ],
   },
   {
-    href: '/pricing',
-    label: 'Pricing',
+    href: '/plans',
+    label: 'Plans',
   },
 ];
 
 // Hero
 export const heroData = {
-  sectionSubtitle: 'All in one analytics tool',
-  sectionTitle: 'Presenting the next-gen user',
+  sectionSubtitle: 'Powerful Insights, Simplified',
+  sectionTitle: 'Unlock the Future of Data',
   decoTitle: 'analytics',
   sectionText:
-    'Next-gen user analytics: Gain valuable insights into user behavior and drive data-informed decision-making with our revolutionary platform.',
+    'Transform raw data into actionable insights. Our cutting-edge platform helps you make smarter decisions and optimize performance effortlessly.',
 };
 
 // Feature
