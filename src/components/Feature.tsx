@@ -44,7 +44,7 @@ const Feature = () => {
               <FeatureCard
                 key={index}
                 classes={
-                  index < 2 ? 'md:col-span-2 lg:col-span-3' : 'xl:col-span-2'
+                  index < 2 ? 'md:col-span-2 lg:col-span-3' : 'lg:col-span-2'
                 }
               >
                 <>

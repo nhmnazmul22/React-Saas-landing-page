@@ -142,42 +142,42 @@ export const heroData = {
 
 // Feature
 export const featureData = {
-  sectionSubtitle: 'Features',
-  sectionTitle: 'Discover Powerful Features',
+  sectionSubtitle: 'Our Features',
+  sectionTitle: 'Unlock Limitless Possibilities',
   sectionText:
-    'Unleash the power of our platform with a multitude of powerful features, empowering you to achieve your goals.',
+    'Explore a suite of powerful tools designed to streamline your workflow, enhance performance, and drive meaningful results.',
   features: [
     {
       icon: <ChartPie size={32} />,
       iconBoxColor: 'bg-blue-600',
-      title: 'Advance Analytics',
-      desc: 'Experience advanced analytics capabilities that enable you to dive deep into data, uncover meaningful patterns, and derive actionable insights',
+      title: 'Advanced Insights',
+      desc: 'Gain in-depth insights with powerful analytics tools, helping you make data-driven decisions with confidence.',
       imgSrc: feature1,
     },
     {
       icon: <Files size={32} />,
       iconBoxColor: 'bg-cyan-500',
-      title: 'Automated Reports',
-      desc: 'Save time and effort with automated reporting, generating comprehensive and accurate reports automatically, streamlining your data analysis',
+      title: 'Automated Reporting',
+      desc: 'Generate detailed reports effortlessly, saving time while ensuring accurate data analysis for better decision-making.',
       imgSrc: feature2,
     },
     {
       icon: <UserRoundPen size={32} />,
       iconBoxColor: 'bg-yellow-500',
-      title: 'Retention Report',
-      desc: 'Enhance retention with our report, maximizing customer engagement and loyalty for business',
+      title: 'User Engagement Metrics',
+      desc: 'Track and optimize user engagement to improve retention, boost conversions, and enhance overall experience.',
     },
     {
       icon: <GitFork size={32} />,
       iconBoxColor: 'bg-red-500',
-      title: 'A/B Test Variants',
-      desc: 'Efficiently compare A/B test variants to determine the most effective strategies',
+      title: 'A/B Testing Tools',
+      desc: 'Run precise A/B tests to compare different strategies and identify the best-performing solutions for your business.',
     },
     {
       icon: <Blocks size={32} />,
       iconBoxColor: 'bg-purple-500',
-      title: 'Integration Directory',
-      desc: 'Seamlessly integrate with our directory, maximizing efficiency and unlocking the full potentials',
+      title: 'Seamless Integrations',
+      desc: 'Connect effortlessly with third-party tools and platforms, maximizing productivity and unlocking new capabilities.',
     },
   ],
 };
