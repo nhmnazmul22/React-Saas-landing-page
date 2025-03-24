@@ -32,7 +32,7 @@ const FeatureCard = ({ classes, children }: FeatureCardProps) => {
       initial='start'
       whileInView='end'
       viewport={{ once: true }}
-      className={`relative overflow-hidden p-[1px] ring ring-inset ring-zinc-800/50 rounded-[14px] ${classes}`}
+      className={`relative overflow-hidden p-[1px] ring ring-inset ring-zinc-800/50 rounded-[14px] h-fit ${classes}`}
     >
       <div
         className='relative isolate bg-card backdrop-blur-md rounded-xl overflow-hidden'

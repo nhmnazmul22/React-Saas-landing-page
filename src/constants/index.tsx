@@ -184,25 +184,25 @@ export const featureData = {
 
 // Process
 export const processData = {
-  sectionSubtitle: 'How it works',
-  sectionTitle: 'Easy Process to Get Started',
+  sectionSubtitle: 'Getting Started',
+  sectionTitle: 'Simple Steps to Begin',
   sectionText:
-    'Discover how it works by leveraging advanced algorithms and data analysis techniques.',
+    'Follow these quick and easy steps to set up your account and start making data-driven decisions effortlessly.',
   list: [
     {
       icon: <LaptopMinimal size={32} />,
-      title: 'Create your account',
-      text: 'Join us now and create your account to start exploring our platform and unlocking exciting features.',
+      title: 'Sign Up',
+      text: 'Create your account in minutes and gain access to powerful tools designed to elevate your experience.',
     },
     {
       icon: <ArrowBigDownDash size={32} />,
-      title: 'Install our tracking app',
-      text: 'Install our tracking app to effortlessly monitor and manage your activities, gaining valuable insights and optimizing your performance.',
+      title: 'Install the App',
+      text: 'Download and install our app to seamlessly track, analyze, and optimize your data in real time.',
     },
     {
       icon: <CreditCard size={32} />,
-      title: 'Start tracking your website',
-      text: 'Start tracking your website effortlessly to gain valuable insights into visitor behavior, performance metrics, and optimization opportunities.',
+      title: 'Monitor & Optimize',
+      text: 'Start tracking key metrics, uncover insights, and optimize your strategy for maximum efficiency.',
     },
   ],
 };
