@@ -12,6 +12,7 @@ import Brand from './components/Brand';
 import Feature from './components/Feature';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Overview from './components/Overview';
 import Process from './components/Process';
 
 const App = () => {
@@ -24,6 +25,7 @@ const App = () => {
           <Brand />
           <Feature />
           <Process />
+          <Overview />
         </main>
       </div>
     </ReactLenis>

@@ -210,22 +210,22 @@ export const processData = {
 // Overview
 export const overviewData = {
   sectionSubtitle: 'Overview',
-  sectionTitle: 'All-In-One Analytics Tool',
+  sectionTitle: 'Your Ultimate Analytics Solution',
   sectionText:
-    'Powerful analytics made easy. Make data-driven decisions with our all-in-one tool.',
-  listTitle: 'More than 1M+ people around the world are already using',
+    'Gain deep insights effortlessly. Make smarter, data-driven decisions with our comprehensive analytics platform.',
+  listTitle: 'Trusted by over 1 million users worldwide',
   list: [
     {
       title: '1M+',
-      text: 'Active Downloads',
+      text: 'Total Downloads',
     },
     {
       title: '4.86',
-      text: 'Average Rating',
+      text: 'Average User Rating',
     },
     {
       title: '60K+',
-      text: 'Active Users',
+      text: 'Active Monthly Users',
     },
   ],
 };
