@@ -8,14 +8,15 @@ import { ReactLenis } from 'lenis/react';
 /**
  * Components
  */
+import Blog from './components/Blog';
 import Brand from './components/Brand';
+import Cta from './components/Cta';
 import Feature from './components/Feature';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Overview from './components/Overview';
 import Process from './components/Process';
 import Review from './components/Review';
-import Blog from './components/Blog';
 
 const App = () => {
   return (
@@ -29,7 +30,8 @@ const App = () => {
           <Process />
           <Overview />
           <Review />
-          <Blog/>
+          <Blog />
+          <Cta />
         </main>
       </div>
     </ReactLenis>
