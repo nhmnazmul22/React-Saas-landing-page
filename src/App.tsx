@@ -15,6 +15,7 @@ import Hero from './components/Hero';
 import Overview from './components/Overview';
 import Process from './components/Process';
 import Review from './components/Review';
+import Blog from './components/Blog';
 
 const App = () => {
   return (
@@ -28,6 +29,7 @@ const App = () => {
           <Process />
           <Overview />
           <Review />
+          <Blog/>
         </main>
       </div>
     </ReactLenis>
