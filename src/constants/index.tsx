@@ -396,26 +396,26 @@ export const footerData = {
       ],
     },
   ],
-  copyright: '© 2024 codewithsadee',
+  copyright: '© 2025 nhmdevelopsolution',
   socialLinks: [
     {
-      href: 'https://x.com/codewithsadee_',
+      href: 'https://x.com',
       icon: <Twitter size={18} />,
     },
     {
-      href: 'https://github.com/codewithsadee',
+      href: 'https://github.com',
       icon: <Github size={18} />,
     },
     {
-      href: 'https://www.linkedin.com/in/codewithsadee/',
+      href: 'https://www.linkedin.com/in',
       icon: <Linkedin size={18} />,
     },
     {
-      href: 'https://www.instagram.com/codewithsadee',
+      href: 'https://www.instagram.com',
       icon: <Instagram size={18} />,
     },
     {
-      href: 'https://www.youtube.com/codewithsadee',
+      href: 'https://www.youtube.com',
       icon: <Youtube size={18} />,
     },
   ],

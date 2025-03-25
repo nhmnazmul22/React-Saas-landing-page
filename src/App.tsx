@@ -12,6 +12,7 @@ import Blog from './components/Blog';
 import Brand from './components/Brand';
 import Cta from './components/Cta';
 import Feature from './components/Feature';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Overview from './components/Overview';
@@ -33,6 +34,7 @@ const App = () => {
           <Blog />
           <Cta />
         </main>
+        <Footer />
       </div>
     </ReactLenis>
   );
